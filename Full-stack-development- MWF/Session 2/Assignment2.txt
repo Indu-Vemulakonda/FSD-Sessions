@@ -1,0 +1,3 @@
+1>implement table using colspan and rowspan by given image
+
+2>create web page which display 10 products list with name,price,category

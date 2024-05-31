@@ -1,0 +1,16 @@
+Create user Registeration form
+        ------------------------ User Registeration Form-------------------------------
+First name -------------
+Last name ---------------
+email ----------------
+
+age: ----------------
+address: ------------------
+profilepic -----------------
+
+dob --------------------
+
+
+course mean
+isMarried yes no
+submit clear reset
